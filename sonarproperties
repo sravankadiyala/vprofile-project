@@ -1,0 +1,8 @@
+sonar.projectKey=myproject
+sonar.projectName=myproject
+sonar.sources=.
+sonar.projectVersion=1.0
+sonar.sources=src
+sonar.binaries=target/classes/com/example/javamavenjunithelloworld/
+sonar.junit.reports.Path=target/surefire-reports
+sonar.exclusions = **/*.java
