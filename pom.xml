@@ -4,7 +4,7 @@
     <groupId>vprofile</groupId>
     <artifactId>vprofile</artifactId>
     <name>vprofile</name>
-    <version>s1</version>
+    <version>$BUILD_ID</version>
     <packaging>war</packaging>
     <url>http://maven.apache.org</url>
     <properties>
